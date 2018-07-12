@@ -1,4 +1,4 @@
 <?php
-  $welcom = "start world war 3";
+  $welcom = "start war";
    echo  $welcom;
      ?>
